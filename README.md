@@ -9,7 +9,7 @@ Atualmente focado em transição de carreira para a área de tecnologia, com exp
 
 ---
 ### 🛠 Tecnologias
-* **Front-End:** HTML5, CSS3, JavaScript
+* **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3
 * **Back-End:** Python
 * **Ferramentas:** Git, GitHub, VS Code
 
