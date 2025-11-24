@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! Eu sou o Leandro 👋
+### Desenvolvedor Focado em IA e Automação
 
-<!--
-**leandromorais7/leandromorais7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente focado em transição de carreira para a área de tecnologia, com experiência em Front-End e estudando Agentes de IA aplicados a problemas reais.
 
-Here are some ideas to get you started:
+- 🔭 **Estudando agora:** Python e Integração com IAs.
+- 💡 **Interesse:** Desenvolvimento Web e Automação.
+- 🚀 **Objetivo:** Criar soluções que facilitam a vida das pessoas através da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Tecnologias
+* **Front-End:** HTML5, CSS3, JavaScript
+* **Back-End:** Python
+* **Ferramentas:** Git, GitHub, VS Code
+
+---
+📫 **Entre em contato:**
+[LinkedIn](https://linkedin.com/in/leandro-morais-dev)
