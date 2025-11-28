@@ -4,7 +4,7 @@
 Atualmente, focado na linguagem de programação Python para criar soluções inteligentes e agregar valor ao seu negócio.
 
 - 🔭 **Estudando agora:** Python.
-- 💡 **Interesse:** Inteligencia Artificial, Machine Learning e Automação de processos.
+- 💡 **Interesse:** Inteligência Artificial, Machine Learning e Automação de processos.
 - 🚀 **Objetivo:** Criar soluções que facilitam a vida das pessoas através da tecnologia.
 
 ---
