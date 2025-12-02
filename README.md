@@ -9,9 +9,9 @@ Atualmente, focado na linguagem de programação Python para criar soluções in
 
 ---
 ### 🛠 Tecnologias que trabalhei
-* **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3
-* **Back-End:** Python
-* **Ferramentas:** Git, GitHub, VS Code
+* **Front-End:** React.js, HTML5, CSS3
+* **Back-End:** Python, JavaScript (ES6+)
+* **Ferramentas:** PyCharm, GitHub, VS Code
 
 ---
 📫 **Entre em contato:**
