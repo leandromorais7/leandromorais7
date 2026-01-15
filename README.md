@@ -29,5 +29,5 @@ Atuo na área de Análise de Dados utilizando o ecossistema Python para simplifi
 ### 📫 Vamos nos conectar?
 "Decisões inteligentes começam com dados bem interpretados".
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-morais-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-morais98)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromoraisneves98@gmail.com)
