@@ -5,7 +5,7 @@ Analista de Dados em formação com comunicação transparente e habilidade de a
 ---
 
 ### 📈 Projeto em Destaque: [ClarezaFy](https://github.com/leandromorais7/clarezafy-financial-dashboard-oficial)
-**Gestão financeira estratégica para microempreendedores.**
+**Gestão financeira inteligente para microempreendedores.**
 * **O Problema:** Falta de clareza e organização em dados financeiros para pequenos negócios.
 * **A Solução:** Uma aplicação que utiliza lógica de programação e visualização de dados para transformar fluxos complexos em uma tomada de decisão clara e assertiva.
 
